@@ -5,17 +5,17 @@ Zbiór zawiera 2961 kolorowych zdjęć satelitarnych rzek położonych w różny
 ![histogram](https://i.postimg.cc/vBbFgYjw/obraz.png)
 
 # Lista rzek:
-Dniepr
-Dunaj
-Garonna,
-Łaba,
-Ren,
-Jenisej,
-Loara,
-Missisipi,
-Nil,
-Ob,
-Pad,
-Pechora,
-Wisła,
-Wołga.
+- Dniepr,
+- Dunaj,
+- Garonna,
+- Łaba,
+- Ren,
+- Jenisej,
+- Loara,
+- Missisipi,
+- Nil,
+- Ob,
+- Pad,
+- Pechora,
+- Wisła,
+- Wołga.
